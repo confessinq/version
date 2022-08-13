@@ -1,7 +1,7 @@
 {
-  "latest": 1.0.0,
+  "latest": 1.0.1,
   "beta": true,
   "client-name": "Confes Client",
-  "readable-version": "(1.0.0)",
-  "full-name": "Confes Client (1.0.0)"
+  "readable-version": "(1.0.1)",
+  "full-name": "Confes Client (1.0.1)"
 }
